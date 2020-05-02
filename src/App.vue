@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    {{ message }}
+    {{ title }}
   </div>
 </template>
 
@@ -10,7 +10,7 @@ export default {
   name: 'App',
   data() {
     return {
-      message: 'Fantasy Premier League'
+      title: 'Fantasy Premier League'
     }
   }
 }
