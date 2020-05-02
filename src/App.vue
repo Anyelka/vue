@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
+  <v-app>
     {{ title }}
-  </div>
+  </v-app>
 </template>
 
 <script>
